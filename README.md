@@ -1,4 +1,4 @@
-# NGS Pipelines
+# NGS Pipelines LNS
 
 # Contents:
 
