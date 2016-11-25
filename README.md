@@ -9,7 +9,7 @@
         - Gene content:
 
 # pipeline_TST15:
-   Analysis pipeline for Illumina TruSight Tumor 15 NGS panel enabling detection of SNVs and small indels in solid tumors.
+    Analysis pipeline for Illumina TruSight Tumor 15 NGS panel enabling detection of SNVs and small indels in solid tumors.
         - Genomic content:
         - Gene count:
         - Gene content:
